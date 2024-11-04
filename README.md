@@ -78,8 +78,7 @@ This food delivery application offers a seamless user experience with secure sig
 ![8](https://github.com/user-attachments/assets/18ed8716-605a-493f-a775-1044d09eba0f)
 
 ### Demo Video of Project
-Uploading food-app-google-chrome-2024-11-03-12-00-28_KtW25yKB.mp4…
-
+[Uploading food-app-google-chrome-2024-11-03-12-00-28_KtW25yKB.mp4…](https://github.com/user-attachments/assets/d45fa5ec-65ac-4f20-ab32-bcfdc5ab2676)
 
 <h2>Installation</h2>
 <ol>
