@@ -56,17 +56,29 @@ This food delivery application offers a seamless user experience with secure sig
 ## Screenshots
 
 ### Registration Page
-
-
 ![1](https://github.com/user-attachments/assets/9559a5a1-78b2-4b7b-a4cb-9692e6b118cf)
-![8](https://github.com/user-attachments/assets/18ed8716-605a-493f-a775-1044d09eba0f)
+
+### Login Page
 ![2](https://github.com/user-attachments/assets/136bba2b-ff55-48fb-929d-339c43ca9d34)
+
+### Home Page
 ![3](https://github.com/user-attachments/assets/a445a5bd-6ed5-4802-8d0b-5b36db9df335)
+
+### View Product Details
 ![4](https://github.com/user-attachments/assets/cb6c3fee-676e-492d-8627-1cebfbb23038)
+
+### View Cart
 ![5](https://github.com/user-attachments/assets/fb978e6a-431a-4751-a48e-96373927ece7)
 ![6](https://github.com/user-attachments/assets/85c0a2d7-9d81-45a5-a72b-b3d29ee2112e)
+
+### Checkout Page
 ![7](https://github.com/user-attachments/assets/9cdf40f2-7d3a-4593-9a35-e77f7afbc3a5)
 
+### My Order
+![8](https://github.com/user-attachments/assets/18ed8716-605a-493f-a775-1044d09eba0f)
+
+### Demo Video of Project
+Uploading food-app-google-chrome-2024-11-03-12-00-28_KtW25yKB.mp4…
 
 
 <h2>Installation</h2>
@@ -83,9 +95,6 @@ This food delivery application offers a seamless user experience with secure sig
     <li>Open your browser and go to <code>http://localhost:3000</code>.</li>
 </ol>
 
-## Usage
-- Visit the home page to register or log in.
-- After logging in, you can create new posts, edit existing posts, and manage likes.
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. If you find any issues, please report them.
