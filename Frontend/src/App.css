@@ -1,0 +1,98 @@
+/* Global styles */
+body {
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  font-family: Arial, sans-serif; /* Set a default font */
+  line-height: 1.6; /* Improve readability */
+  color: #333; /* Set a default text color */
+  background-color: #f4f4f4; /* Light background color */
+}
+
+/* Ensure full height for the body */
+html,
+body {
+  height: 100%;
+}
+
+#root {
+  max-width: 100%; /* Set a maximum width for content */
+  margin: 5px; /* Center the container */
+  padding: 10px; /* Add padding around the container */
+}
+
+/* Flex container for item cards */
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+/* Card item styles */
+.card-item {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff; /* Card background color */
+}
+
+.card-item:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Image styles */
+.img-card {
+  height: 198px;
+  width: 100%; /* Ensure full width */
+  object-fit: cover; /* Maintain aspect ratio */
+  border-bottom: 1px solid #e0e0e0; /* Divider for image */
+}
+
+/* Card body styles */
+.card-body {
+  padding: 16px;
+}
+
+/* Title styles */
+.card-title {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Form select styles */
+.form-select {
+  margin-left: 8px;
+  border-radius: 5px;
+  border: 1px solid #007bff;
+}
+
+/* Price container styles */
+.price-container {
+  margin-top: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #28a745; /* Green color for price */
+}
+
+/* Button styles */
+.btn {
+  width: 45%;
+}
+
+.modal-body {
+  text-align: center;
+}
+
+.modal-img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+}
+
+.modal-dialog-centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
